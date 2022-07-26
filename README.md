@@ -1,9 +1,7 @@
 ### Olá! Eu sou o Jonathan Souza 👋
 
 - 🔭 Hoje trabalho com Hardware e me especializando em deselvolvedor
-- 🌱 Estudando ADS e Ingles
-- 📫 Contate-me no Email : Jsouza1993@gmail.com
-- 📫 Contate-me no LinkDin - https://www.linkedin.com/in/jonathan-souza-7283b1221/
+- 🌱 Cursando Análise e Desenvolvimento de Sistema
 - 📫 Contate-me no Whatsapp - (13) 97412-4438
 - 😄 Pronouns: Ele/Dele
 
@@ -21,4 +19,3 @@
  	 <a href="Jonathan Polezel#7883" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jsouza1993@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathan-souza-7283b1221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-/div>
