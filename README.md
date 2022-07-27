@@ -27,3 +27,5 @@
   </div><br/>
   
   ### Sempre fui apaixonado por tecnologia, eletronica, elétrica, codes e jogos, estou me especializando para que possa fazer a diferença no mercado de trabalho!!!
+
+ ![Snake animation](https://github.com/jonathanpolezel/jonathanpolezel/blob/output/github-contribution-grid-snake.svg)
