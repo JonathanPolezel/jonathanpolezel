@@ -26,6 +26,5 @@
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </div><br/>
   
-  ### Sempre fui apaixonado por tecnologia, eletronica, elétrica, codes e jogos, estou me especializando para que possa fazer a diferença no mercado de trabalho!!!
-
- ![Snake animation](https://github.com/jonathanpolezel/jonathanpolezel/blob/output/github-contribution-grid-snake.svg)
+  ### Sempre fui apaixonado por tecnologia, eletrônica, elétrica, codes e jogos... Estou me especializando para que possa fazer a diferença no mercado de trabalho!
+![Snake animation](https://github.com/jonathanpolezel/jonathanpolezel/blob/output/github-contribution-grid-snake.svg)
