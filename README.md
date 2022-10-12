@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jonathan Souza 👋
 
-- 🔭 Hoje trabalho com manutenção em hardware a mais de 10 anos e me especializando para ser o um dos melhores deselvolvedores/programadores;
+- 🔭 Hoje trabalho no Colegio da Policia Militar como TI, Mas tambem ja trabalhei com manutenção em hardware por mais de 10 anos e estou me especializandopara ser o um dos melhores deselvolvedores/programadores;
 - 📖 Cursando Análise e Desenvolvimento de Sistema;
 - 📖 Realizando cursos na Udemy; 
 - 🌐 Estudando Ingles.
