@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Jonathan Souza 👋
 
-- 🔭 Hoje trabalho no Colegio da Policia Militar como TI, Mas tambem ja trabalhei com manutenção em hardware por mais de 10 anos e estou me especializandopara ser o um dos melhores deselvolvedores/programadores;
+- 🔭 Hoje trabalho no Colegio JeanPiaget - Santos como Analista de TI, Mas tambem ja trabalhei com manutenção em hardware por mais de 10 anos e estou me especializando para ser reconhecido na area de tecnologia.;
 - 📖 Cursando Análise e Desenvolvimento de Sistema;
-- 📖 Realizando cursos na Udemy; 
+- 📖 Realizando cursos na Udemy;
+ 📖 Realizando cursos na DIO; 
 - 🌐 Estudando Ingles.
 
  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/JonathanSouza93)
