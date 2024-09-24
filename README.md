@@ -5,7 +5,7 @@
 - 📖 Cursando Análise e Desenvolvimento de Sistema;
 - 📖 Realizando cursos na Udemy;
 - 📖 Realizando cursos na DIO; 
-- 🌐 Estudando Ingles.
+- 🌐 Estudando Ingles pelo Colegio JeanPiaget.
 
  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/JonathanSouza93)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonathanpolezel93/)
@@ -20,12 +20,9 @@
 
 <div style="display: inline_block"><br>
 <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img align="center" alt="excell" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img align="center" alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
   </div><br/>
   
   ### Sempre fui apaixonado por tecnologia, eletrônica, elétrica, codes e jogos... Estou me especializando para que possa fazer a diferença no mercado de trabalho!
