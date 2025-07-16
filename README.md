@@ -2,13 +2,14 @@
 
 - 🔭 Hoje trabalho no Colegio JeanPiaget - Santos como Analista de TI e estou me especializando para ser reconhecido na area de tecnologia;
   
-- 📖 Cursando Análise e Desenvolvimento de Sistema;
+- 📖 Faculdade de Análise e Desenvolvimento de Sistema;
+- 📖 Cursando Pos faculdade pela FIAP - DevOps e Arquitetura Cloud;
+- 📖 Realizando cursos na Alura;
 - 📖 Realizando cursos na Udemy;
 - 📖 Realizando cursos na DIO; 
 - 🌐 Estudando Ingles pelo Colegio JeanPiaget.
 
  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/JonathanSouza93)
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonathanpolezel93/)
  [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-souza-7283b1221/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5513974124438)
 
