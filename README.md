@@ -1,30 +1,61 @@
-### Olá! Eu sou o Jonathan Souza 👋
+<div align="center">
+  <a href="https://www.jonathanmoyano.com.br" target="_blank">
+    <img src="https://i.imgur.com/gY9gG0g.png" alt="Banner Jonathan Moyano" />
+  </a>
+</div>
 
-- 🔭 Hoje trabalho no Colegio JeanPiaget - Santos como Analista de TI e estou me especializando para ser reconhecido na area de tecnologia;
-  
-- 📖 Faculdade de Análise e Desenvolvimento de Sistema;
-- 📖 Cursando Pos faculdade pela FIAP - DevOps e Arquitetura Cloud;
-- 📖 Realizando cursos na Alura;
-- 📖 Realizando cursos na Udemy;
-- 📖 Realizando cursos na DIO; 
-- 🌐 Estudando Ingles pelo Colegio JeanPiaget.
+<h1 align="center">Olá, eu sou o Jonathan Souza Moyano 👋</h1>
+<h3 align="center">Analista de Infraestrutura | Especialista em Suporte N2 | Apaixonado por DevOps & Cloud</h3>
 
- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/JonathanSouza93)
- [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-souza-7283b1221/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5513974124438)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonathansouzamoyano/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jonathan.moyano@outlook.com.br">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.jonathanmoyano.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
+---
 
-![JonathanPolezel GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanpolezel&show_icons=true&theme=dark)
-[![JonathanPolezel](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanpolezel)](https://github.com/jonathanpolezel/github-readme-stats)
+### 👨‍💻 Sobre Mim
 
-## Tecnologias que estou estudando
+[cite_start]Profissional de TI com mais de **17 anos de experiência** [cite: 9][cite_start], combinando uma sólida base técnica em manutenção de hardware, suporte N1/N2 e infraestrutura [cite: 9] [cite_start]com formação superior em **Análise e Desenvolvimento de Sistemas**[cite: 14]. Atualmente, estou aprofundando meus conhecimentos em uma **Pós-Graduação em DevOps & Arquitetura Cloud na FIAP**.
 
-<div style="display: inline_block"><br>
-<img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img align="center" alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+[cite_start]Minha trajetória única inclui **4 anos de liderança como bombeiro civil**[cite: 11], o que me proporcionou uma capacidade ímpar de resolver problemas complexos e gerenciar crises com precisão e calma. Busco constantemente por oportunidades desafiadoras para aplicar e expandir meus conhecimentos, contribuindo com expertise técnica e liderança.
 
-  </div><br/>
-  
-  ### Sempre fui apaixonado por tecnologia, eletrônica, elétrica, codes e jogos... Estou me especializando para que possa fazer a diferença no mercado de trabalho!
-![Snake animation](https://github.com/jonathanpolezel/jonathanpolezel/blob/output/github-contribution-grid-snake.svg)
+---
+
+### 🛠️ Stack Tecnológica
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white" alt="Windows Server"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
+</p>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathanpolezel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de JonathanPolezel"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanpolezel&layout=compact&langs_count=7&theme=tokyonight" alt="Top Linguagens de JonathanPolezel"/>
+</p>
+
+<div align="center">
+  <img src="https://github.com/jonathanpolezel/jonathanpolezel/blob/output/github-contribution-grid-snake.svg" alt="Animação de Contribuição"/>
+</div>
