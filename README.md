@@ -23,9 +23,9 @@
 
 ### 👨‍💻 Sobre Mim
 
-[cite_start]Profissional de TI com mais de **17 anos de experiência** [cite: 9][cite_start], combinando uma sólida base técnica em manutenção de hardware, suporte N1/N2 e infraestrutura [cite: 9] [cite_start]com formação superior em **Análise e Desenvolvimento de Sistemas**[cite: 14]. Atualmente, estou aprofundando meus conhecimentos em uma **Pós-Graduação em DevOps & Arquitetura Cloud na FIAP**.
+Profissional de TI com mais de **17 anos de experiência**, combinando uma sólida base técnica em manutenção de hardware, suporte N1/N2 e infraestrutura com formação superior em **Análise e Desenvolvimento de Sistemas**. Atualmente, estou aprofundando meus conhecimentos em uma **Pós-Graduação em DevOps & Arquitetura Cloud na FIAP**.
 
-[cite_start]Minha trajetória única inclui **4 anos de liderança como bombeiro civil**[cite: 11], o que me proporcionou uma capacidade ímpar de resolver problemas complexos e gerenciar crises com precisão e calma. Busco constantemente por oportunidades desafiadoras para aplicar e expandir meus conhecimentos, contribuindo com expertise técnica e liderança.
+Minha trajetória única inclui **4 anos de liderança como bombeiro civil**, o que me proporcionou uma capacidade ímpar de resolver problemas complexos e gerenciar crises com precisão e calma. Busco constantemente por oportunidades desafiadoras para aplicar e expandir meus conhecimentos, contribuindo com expertise técnica e liderança.
 
 ---
 
