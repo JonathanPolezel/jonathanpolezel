@@ -52,10 +52,12 @@ Minha trajetória única inclui **4 anos de liderança como bombeiro civil**, o 
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathanpolezel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de JonathanPolezel"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanpolezel&layout=compact&langs_count=7&theme=tokyonight" alt="Top Linguagens de JonathanPolezel"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jonathanpolezel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+    alt="Estatísticas do GitHub de JonathanPolezel"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanpolezel&layout=compact&langs_count=7&theme=tokyonight" 
+    alt="Top Linguagens de JonathanPolezel"
+  />
 </p>
-
-<div align="center">
-  <img src="https://github.com/jonathanpolezel/jonathanpolezel/blob/output/github-contribution-grid-snake.svg" alt="Animação de Contribuição"/>
-</div>
