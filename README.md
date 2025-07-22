@@ -10,6 +10,11 @@
 <h3 align="center">Analista de Infraestrutura | Especialista em Suporte N2 | Apaixonado por DevOps & Cloud</h3>
 
 <p align="center">
+
+
+<a href="https://curriculo-three-iota.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Currículo-239120?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Currículo"/>
+</a>
   <a href="https://www.linkedin.com/in/jonathansouzamoyano/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
