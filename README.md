@@ -1,6 +1,7 @@
 <div align="center">
+
   <a href="https://www.jonathanmoyano.com.br" target="_blank">
-    <img src="<img width="1047" height="271" alt="image" src="https://github.com/user-attachments/assets/3c42dc05-a000-4665-ab91-dd31fca033a0" />
+    <img width="1047" height="271" alt="banner" src="https://github.com/user-attachments/assets/0a3dffac-90c6-4ae7-b92b-16061e6bd561" />
 " alt="Banner Jonathan Moyano" />
   </a>
 </div>
