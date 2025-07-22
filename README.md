@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://www.jonathanmoyano.com.br" target="_blank">
-    <img width="1033" height="253" alt="banner2" src="https://github.com/user-attachments/assets/d9de5458-5fff-4c81-804d-97dec0002a45" />
+    <img width="1053" height="353" alt="banner2" src="https://github.com/user-attachments/assets/d9de5458-5fff-4c81-804d-97dec0002a45" />
 
   </a>
 </div>
